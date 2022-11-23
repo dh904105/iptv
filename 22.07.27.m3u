@@ -1,0 +1,469 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1综合
+http://111.20.33.70/PLTV/88888893/224/3221226231/index.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://39.134.32.102:6610/270000001111/1110000151/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-1综合
+http://111.13.42.240/PLTV/88888888/224/3221226226/1.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-2财经
+http://111.20.33.70/PLTV/88888893/224/3221226195/index.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://111.20.33.93/TVOD/88888893/224/3221226195/index.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://39.134.32.102:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-2财经
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-2财经
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000014161/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-3综艺
+http://111.20.33.70/PLTV/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://39.134.32.102:6610/270000001111/1110000303/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-3综艺
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000022313/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-4国际
+http://111.20.33.70/PLTV/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 ,CCTV-4国际
+http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 ,CCTV-4国际
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 ,CCTV-4国际
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-4国际
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000320/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://111.20.33.70/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-5体育
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-5+赛事
+http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
+#EXTINF:-1 ,CCTV-5+赛事
+http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
+#EXTINF:-1 ,CCTV-5+赛事
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+#EXTINF:-1 ,CCTV-5+赛事
+http://39.134.32.102:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-5+赛事
+http://111.13.42.240/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1 ,CCTV-5+赛事
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000015875/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-6电影
+http://111.20.33.70/PLTV/88888893/224/3221226011/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://39.134.32.102:6610/270000001111/1110000307/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-6电影
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000361/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000004574/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-7军事
+http://111.20.33.70/PLTV/88888893/224/3221226192/index.m3u8
+#EXTINF:-1 ,CCTV-7军事
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
+#EXTINF:-1 ,CCTV-7军事
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-7军事
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000318/index.m3u8
+#EXTINF:-1 ,CCTV-7军事
+http://112.19.214.90:8883/tsfile/live/0007_1.m3u8
+#EXTINF:-1 ,CCTV-7军事
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000009055/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-8电视剧
+http://111.20.33.70/PLTV/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://39.134.32.102:6610/270000001111/1110000309/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-8电视剧
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000362/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://111.13.42.240/PLTV/88888888/224/3221226485/1.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000001070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-9纪录
+http://111.20.33.70/PLTV/88888893/224/3221226197/index.m3u8
+#EXTINF:-1 ,CCTV-9纪录
+http://111.20.33.93/TVOD/88888893/224/3221226197/index.m3u8
+#EXTINF:-1 ,CCTV-9纪录
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 ,CCTV-9纪录
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-9纪录
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000319/index.m3u8
+#EXTINF:-1 ,CCTV-9纪录
+http://112.19.214.90:8883/tsfile/live/0009_1.m3u8
+#EXTINF:-1 ,CCTV-9纪录
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-10科教
+http://111.20.33.70/PLTV/88888893/224/3221226189/index.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-10科教
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000321/index.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://112.19.214.90:8883/tsfile/live/0010_1.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000031506/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-11戏曲
+http://111.20.33.70/PLTV/88888893/224/3221226240/index.m3u8
+#EXTINF:-1 ,CCTV-11戏曲
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
+#EXTINF:-1 ,CCTV-11戏曲
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-11戏曲
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000344/index.m3u8
+#EXTINF:-1 ,CCTV-11戏曲
+http://112.19.214.90:8883/tsfile/live/0011_1.m3u8
+#EXTINF:-1 ,CCTV-11戏曲
+http://111.13.42.240/PLTV/88888888/224/3221225869/1.m3u8
+#EXTINF:-1 ,CCTV-12社会
+http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8
+#EXTINF:-1 ,CCTV-12社会
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+#EXTINF:-1 ,CCTV-12社会
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-12社会
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000322/index.m3u8
+#EXTINF:-1 ,CCTV-12社会
+http://112.19.214.90:8883/tsfile/live/0012_1.m3u8
+#EXTINF:-1 ,CCTV-12社会
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000022586/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-13新闻
+http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
+#EXTINF:-1 ,CCTV-13新闻
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+#EXTINF:-1 ,CCTV-13新闻
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-13新闻
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000345/index.m3u8
+#EXTINF:-1 ,CCTV-13新闻
+http://112.19.214.90:8883/tsfile/live/0013_1.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://111.20.33.93/TVOD/88888893/224/3221226193/index.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-14少儿
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000323/index.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://112.19.214.90:8883/tsfile/live/0014_1.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://111.13.42.240/PLTV/88888888/224/3221226229/1.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000013647/index.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=no
+#EXTINF:-1 ,CCTV-15音乐
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:-1 ,CCTV-15音乐
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-15音乐
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8
+#EXTINF:-1 ,CCTV-15音乐
+http://112.19.214.90:8883/tsfile/live/0015_1.m3u8
+#EXTINF:-1 ,CCTV-16奥林
+http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 ,CCTV-16奥林
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
+#EXTINF:-1 ,CCTV-16奥林
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-16奥林
+http://111.13.42.240/PLTV/88888888/224/3221226892/1.m3u8
+#EXTINF:-1 ,CCTV-17农业
+http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8
+#EXTINF:-1 ,CCTV-17农业
+http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8
+#EXTINF:-1 ,CCTV-17农业
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 ,CCTV-17农业
+http://39.134.32.102:6610/270000001111/1110000391/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-17农业
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV-17农业
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8
+#EXTINF:-1 ,CCTV-17农业
+http://112.19.214.90:8883/tsfile/live/0019_1.m3u8
+#EXTINF:-1 ,湖南卫视
+http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://111.20.33.93/TVOD/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,湖南卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://112.19.214.90:8883/tsfile/live/0128_1.m3u8
+#EXTINF:-1 ,湖南卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000018044/index.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=no
+#EXTINF:-1 ,浙江卫视
+http://111.20.33.70/PLTV/88888893/224/3221226199/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://111.20.33.93/TVOD/88888893/224/3221226199/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,浙江卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://112.19.214.90:8883/tsfile/live/0124_1.m3u8
+#EXTINF:-1 ,浙江卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000032070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=no
+#EXTINF:-1 ,江苏卫视
+http://111.20.33.70/PLTV/88888893/224/3221226200/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://111.20.33.93/TVOD/88888893/224/3221226200/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,江苏卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://112.19.214.90:8883/tsfile/live/0127_1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000014861/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=no
+#EXTINF:-1 ,北京卫视
+http://111.20.33.70/PLTV/88888893/224/3221226222/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://111.20.33.93/TVOD/88888893/224/3221226222/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,北京卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://112.19.214.90:8883/tsfile/live/0122_1.m3u8
+#EXTINF:-1 ,北京卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000020451/index.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=no
+#EXTINF:-1 ,重庆卫视
+http://111.20.33.70/PLTV/88888893/224/3221226202/index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,重庆卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000341/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://111.20.33.70/PLTV/88888893/224/3221226217/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://111.20.33.93/TVOD/88888893/224/3221226217/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,东方卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://112.19.214.90:8883/tsfile/live/0107_1.m3u8
+#EXTINF:-1 ,东方卫视
+http://111.13.42.240/PLTV/88888888/224/3221226237/1.m3u8
+#EXTINF:-1 ,东方卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000003639/index.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=no
+#EXTINF:-1 ,安徽卫视
+http://111.20.33.70/PLTV/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://111.20.33.93/TVOD/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,安徽卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000328/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://112.19.214.90:8883/tsfile/live/0130_1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://111.13.42.240/PLTV/88888888/224/3221226223/1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000009954/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=no
+#EXTINF:-1 ,广东卫视
+http://111.20.33.70/PLTV/88888893/224/3221226216/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://111.20.33.93/TVOD/88888893/224/3221226216/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,广东卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000307/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://112.19.214.90:8883/tsfile/live/0125_1.m3u8
+#EXTINF:-1 ,广东卫视
+http://111.13.42.240/PLTV/88888888/224/3221226238/1.m3u8
+#EXTINF:-1 ,广东卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000031076/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=no
+#EXTINF:-1 ,深圳卫视
+http://111.20.33.70/PLTV/88888893/224/3221226205/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONTENTID=00000110240132_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,深圳卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000308/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://112.19.214.90:8883/tsfile/live/0126_1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000002116/index.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=no
+#EXTINF:-1 ,辽宁卫视
+http://111.20.33.70/PLTV/88888893/224/3221226201/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://111.20.33.93/TVOD/88888893/224/3221226210/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,辽宁卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://111.20.33.70/PLTV/88888893/224/3221226209/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://111.20.33.93/TVOD/88888893/224/3221226209/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,山东卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000301/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://112.19.214.90:8883/tsfile/live/0131_1.m3u8
+#EXTINF:-1 ,山东卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000004134/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=no
+#EXTINF:-1 ,山东齐鲁
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8
+#EXTINF:-1 ,山东少儿
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8
+#EXTINF:-1 ,海看少儿
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000402/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://111.20.33.70/PLTV/88888893/224/3221226204/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://111.20.33.93/TVOD/88888893/224/3221226204/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,天津卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000327/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://112.19.214.90:8883/tsfile/live/0135_1.m3u8
+#EXTINF:-1 ,天津卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000009186/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=no
+#EXTINF:-1 ,吉林卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240399_1/playlist.m3u8?CONTENTID=00000110240399_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,四川卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000348/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,东南卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
+#EXTINF:-1 ,海南卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,河北卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000330/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,贵州卫视
+http://112.19.214.90:8883/tsfile/live/0120_1.m3u8
+#EXTINF:-1 ,陕西卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://111.20.33.70/PLTV/88888893/224/3221226215/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://111.20.33.93/TVOD/88888893/224/3221226215/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225594/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,黑龙江卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://112.19.214.90:8883/tsfile/live/0143_1.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000016510/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016510&livemode=1&stbId=no
+#EXTINF:-1 ,湖北卫视
+http://111.20.33.70/PLTV/88888893/224/3221226194/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://111.20.33.93/TVOD/88888893/224/3221226194/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,湖北卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000325/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://112.19.214.90:8883/tsfile/live/0132_1.m3u8
+#EXTINF:-1 ,湖北卫视
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000001000015436/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=no
+#EXTINF:-1 ,江西卫视
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 ,江西卫视
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240398_1/playlist.m3u8?CONTENTID=00000110240398_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,江西卫视
+http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000335/index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CHC家庭影院
+http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CHC动作电影
+http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://61.160.152.2/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CHC动作电影
+http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 ,动漫秀场
+http://58.34.204.67:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 ,动漫秀场
+http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,峨眉电影
+http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
+#EXTINF:-1 ,高清影院
+http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
+#EXTINF:-1 ,经典再现
+http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
